@@ -1,2 +1,3 @@
 #Laboratorio (12 - 13)
-![WhatsApp Image 2024-06-04 at 10 03 23 PM](https://github.com/Miguel2314carvajal/Recoleccion_Basura/assets/151950810/a37b37a8-cbbb-4763-819c-335cca4acb7e)
+![image](https://github.com/Miguel2314carvajal/ReporteIncidenciasResiduos/assets/151950810/6798dcd3-a550-487f-8e32-03d50a1943ad)
+
